@@ -25,18 +25,19 @@ With this case study we are trying to analyze the data and minimize the financia
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- OverAll Loan data has 83%(32950 loans) fully paid, 14%(5627 loans) Charged off, 3%(1140) Current loan
+- Most of the Loans which was charged off has dti ratio between 6 to 24
+- Most of the Loans which was charged off has annual_income between 0 to 300K and loan amount between 0 to 40k and interest rate between 5 to 25 %
+- On an Average Charged Off loans has annual_income = 62427.298034 ,dti_ratio = 14.000624 interest_rate = 13.820432 ,loan_amount	12104.385108
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas - version 1.5.3
+- numpy - version 1.23.5
+- matplotlib - version 3.7.0
+- seaborn - version 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -48,7 +49,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@sumanji] - feel free to contact me!
 
 
 <!-- Optional -->
